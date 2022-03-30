@@ -84,8 +84,9 @@ button{
 
 }
 
-img{
-    width: inherit;
+.img_gal{
+    display: flex;
+    align-items: center;
 }
 
 .grid-col-span2{
